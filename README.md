@@ -1,5 +1,5 @@
 # TPWD_Web_Scrape
-Python scripts for scraping draw hunt data from the TPWD site.
+Python scripts for scraping draw hunt data from the Texas Parks & Wildlife (TPWD) site.
 
 Each year, members of my hunting group apply for public hunting tags on the Texas Parks and Wildlife Department's website.
 It is always a challenge to sift through web-pages, organize information on hunt opportunities, analyze the data, and decide on which ones to apply for.
